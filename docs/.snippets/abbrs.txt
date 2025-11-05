@@ -1,0 +1,45 @@
+*[CERN]: European Organization for Nuclear Research
+*[DEMOS]: DEMocratizing MOdelS
+*[ErUM]: Exploration of the Universe and Matter
+*[FAIR]: Findable, Accessible, Interoperable, Reusable
+*[MaaS]: Models as a Service
+*[WP]: Work Package
+*[HS3]: HEP Statistics Serialization Standard
+*[PyHF]: Python-based HistFactory
+*[EFT]: Effective Field Theory
+*[QCD]: Quantum Chromodynamics
+*[QED]: Quantum Electrodynamics
+*[LHCb]: Large Hadron Collider beauty experiment
+*[ATLAS]: A Toroidal LHC ApparatuS
+*[CMS]: Compact Muon Solenoid
+*[BMBF]: Bundesministerium für Bildung und Forschung
+*[HEP]: High Energy Physics
+*[DSL]: Domain-Specific Language
+*[API]: Application Programming Interface
+*[CI/CD]: Continuous Integration/Continuous Deployment
+*[JSON]: JavaScript Object Notation
+*[UUID]: Universally Unique Identifier
+*[DOI]: Digital Object Identifier
+*[LEC]: Low-Energy Constant
+*[NN]: Nucleon-Nucleon
+*[3N]: Three-Nucleon
+*[PWA]: Partial-Wave Analysis
+*[MCMC]: Markov Chain Monte Carlo
+*[RAG]: Retrieval Augmented Generation
+*[LLM]: Large Language Model
+*[HP]: Hadron Physics
+*[PP]: Particle Physics
+*[NP]: Nuclear Physics
+*[NuP]: Neutrino Physics
+*[AP]: Astroparticle Physics
+*[LP]: Laser Physics
+*[RUB]: Ruhr University Bochum
+*[HZDR]: Helmholtz-Zentrum Dresden-Rossendorf
+*[TUDO]: TU Dortmund University
+*[JGU]: Johannes Gutenberg-University Mainz
+*[TUM]: Technical University of Munich
+*[LMU]: Ludwig Maximilian University of Munich
+*[MPP]: Max Planck Institute for Physics
+*[BSM]: Beyond the Standard Model
+*[TDDFT]: Time-Dependent Density-Functional Theory
+*[PDG]: Particle Data Group

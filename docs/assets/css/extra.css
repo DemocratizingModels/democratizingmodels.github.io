@@ -1,0 +1,74 @@
+/* ATLAS Blue Branding
+ * ATLAS blue: #0b80c3
+ * RGB: 11, 128, 195
+ * CMYK: 83, 42, 1, 0
+ * Font: Open Sans
+ */
+
+/* Open Sans font face declarations - using variable fonts */
+@font-face {
+  font-family: "Open Sans";
+  font-stretch: 75% 100%;
+  font-style: normal;
+  font-weight: 300 800;
+  src: url("fonts/Open_Sans/OpenSans-VariableFont_wdth,wght.ttf")
+    format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  font-stretch: 75% 100%;
+  font-style: italic;
+  font-weight: 300 800;
+  src: url("fonts/Open_Sans/OpenSans-Italic-VariableFont_wdth,wght.ttf")
+    format("truetype");
+  font-display: swap;
+}
+
+/* Inconsolata font face declarations - using variable font */
+@font-face {
+  font-family: "Inconsolata";
+  font-stretch: 50% 200%;
+  font-weight: 200 900;
+  src: url("fonts/Inconsolata/Inconsolata-VariableFont_wdth,wght.ttf")
+    format("truetype");
+  font-display: swap;
+}
+
+/* Custom ATLAS color scheme - same blue for light and dark modes */
+:root > * {
+  /* ATLAS primary colors (header, sidebar, links) */
+  --md-primary-fg-color: #0b80c3;
+  --md-primary-fg-color--light: #3d9ed4;
+  --md-primary-fg-color--dark: #086a9f;
+
+  /* ATLAS accent colors (interactive elements) */
+  --md-accent-fg-color: #0b80c3;
+  --md-accent-fg-color--transparent: #0b80c31a;
+
+  /* ATLAS fonts */
+  --md-text-font: "Open Sans";
+  --md-code-font: "Inconsolata";
+}
+
+/* Dark mode - keep the same ATLAS blue */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #0b80c3;
+  --md-primary-fg-color--light: #3d9ed4;
+  --md-primary-fg-color--dark: #086a9f;
+
+  --md-accent-fg-color: #0b80c3;
+  --md-accent-fg-color--transparent: #0b80c31a;
+}
+
+p.center {
+  text-align: center;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 4rem; /* Adjust as needed */
+  padding: 0.2rem;
+  background-color: rgba(255, 255, 255, 0.75);
+}
