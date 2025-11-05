@@ -85,32 +85,11 @@ plugins:
         build: true
         nav_translations:
           Home: Startseite
+          About: Über DEMOS
           Consortium: Konsortium
-          Overview: Überblick
           Members: Mitglieder
-          Objectives: Ziele
-          "State of the Art": Stand der Technik
-          "Particle Physics": Teilchenphysik
-          "Hadron Physics": Hadronenphysik
-          "Nuclear Physics": Kernphysik
-          "Neutrino Physics": Neutrinophysik
-          "Laser Physics": Laserphysik
-          "Astroparticle Physics": Astroteilchenphysik
-          "Work Packages": Arbeitspakete
-          "Pillar 1 - Model Format": "Säule 1 - Modellformat"
-          "WP1.1 Harmonizing Models": "WP1.1 Harmonisierung von Modellen"
-          "WP1.2 Engines": "WP1.2 Engines"
-          "WP1.3 Containers (MaaS)": "WP1.3 Containers (MaaS)"
-          "Pillar 2 - Infrastructure": "Säule 2 - Infrastruktur"
-          "WP2.1 Front-end": "WP2.1 Front-end"
-          "WP2.2 Back-end": "WP2.2 Back-end"
-          "WP2.3 Interoperability": "WP2.3 Interoperabilität"
-          "Pillar 3 - Community": "Säule 3 - Gemeinschaft"
-          "WP3.1 Documentation": "WP3.1 Dokumentation"
-          "WP3.2 Showcasing": "WP3.2 Präsentation"
-          "WP3.3 Sustainability": "WP3.3 Nachhaltigkeit"
-          "Exploitation Plan": Verwertungsplan
-          References: Referenzen
+          Contact: Kontakt
+          Opportunities: Möglichkeiten
         site_name: DEMOS (de)
         site_description: Interdisziplinäre Plattform zum Austausch von Forschungsmodellen
   table-reader: {}
@@ -197,34 +176,9 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - About: about.md
   - Consortium:
-    - Overview: consortium/index.md
+    - consortium/index.md
     - Members: consortium/members.md
-  - Objectives: objectives.md
-  - State of the Art:
-    - Overview: state-of-art/index.md
-    - Particle Physics: state-of-art/particle-physics.md
-    - Hadron Physics: state-of-art/hadron-physics.md
-    - Nuclear Physics: state-of-art/nuclear-physics.md
-    - Neutrino Physics: state-of-art/neutrino-physics.md
-    - Laser Physics: state-of-art/laser-physics.md
-    - Astroparticle Physics: state-of-art/astroparticle-physics.md
-  - Work Packages:
-    - Overview: work-packages/index.md
-    - Pillar 1 - Model Format:
-      - Overview: work-packages/pillar1/index.md
-      - WP1.1 Harmonizing Models: work-packages/pillar1/wp1-1-harmonizing.md
-      - WP1.2 Engines: work-packages/pillar1/wp1-2-engines.md
-      - WP1.3 Containers (MaaS): work-packages/pillar1/wp1-3-containers.md
-    - Pillar 2 - Infrastructure:
-      - Overview: work-packages/pillar2/index.md
-      - WP2.1 Front-end: work-packages/pillar2/wp2-1-frontend.md
-      - WP2.2 Back-end: work-packages/pillar2/wp2-2-backend.md
-      - WP2.3 Interoperability: work-packages/pillar2/wp2-3-interoperability.md
-    - Pillar 3 - Community:
-      - Overview: work-packages/pillar3/index.md
-      - WP3.1 Documentation: work-packages/pillar3/wp3-1-documentation.md
-      - WP3.2 Showcasing: work-packages/pillar3/wp3-2-showcasing.md
-      - WP3.3 Sustainability: work-packages/pillar3/wp3-3-sustainability.md
-  - Exploitation Plan: exploitation.md
-  - References: references.md
+    - Contact: consortium/contact.md
+  - Opportunities: opportunities.md

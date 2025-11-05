@@ -4,88 +4,53 @@ title: Home
 
 # DEMOS: DEMocratizing MOdelS
 
-## Cross-discipline platform on exchange of research models
+**A cross-discipline platform for sharing research models**
 
-**Funding Period:** October 1, 2025 - September 30, 2028
-**Funding Agency:** Bundesministerium für Bildung und Forschung (BMBF)
-**Program:** ErUM-Data
+DEMOS is a BMBF-funded research consortium (2025-2028) developing a federated and interoperable standard for sharing probabilistic models across ErUM (Exploration of the Universe and Matter) research fields.
 
 ---
 
-## Overview
+## What is DEMOS?
 
-The national research consortium "Democratizing Models: cross-discipline platform for exchange of research models" focuses on creating a **federated and interoperable platform** for sharing, standardizing, and using probabilistic models across different fields within ErUM (Exploration of the Universe and Matter).
+DEMOS creates a **common standard and infrastructure** for serializing, sharing, and using research models across multiple physics domains. Our goal is to make models **FAIR**: Findable, Accessible, Interoperable, and Reusable.
 
-The project addresses key challenges in research data management, ensuring that models are **findable, accessible, interoperable, and reusable (FAIR)**. It aims to support collaboration across disciplines, including:
+### Research Domains
 
-- **Astrophysics (AP)**
-- **Laser Physics (LP)**
-- **Particle Physics (PP)**
-- **Hadron Physics (HP)**
-- **Neutrino Physics (NuP)**
-- **Nuclear Physics (NP)**
+DEMOS serves researchers across six ErUM fields:
 
-and promote the effective use of research models in line with the goals of the funding call.
+- Particle Physics (PP)
+- Hadron Physics (HP)
+- Nuclear Physics (NP)
+- Neutrino Physics (NuP)
+- Astroparticle Physics (AP)
+- Laser Physics (LP)
 
-## The Challenge
+## Our Approach
 
-In the ErUM research fields, a **model** is a mathematical or computational object used to describe a physical process. Models are used to make predictions or to interpret experimental data. They vary greatly in complexity and structure across different applications but often share common elements or features.
+DEMOS is built on three foundational pillars:
 
-Despite their importance, the sharing and dissemination of these models present significant challenges:
+### 1. Model Format Standardization
 
-- Current practices vary widely across the ErUM community and often lack standardization
-- Some domains use sophisticated framework-specific formats or binary files
-- Others rely on informal methods, such as sharing code snippets via email
-- Models often need to be manually reproduced from mathematical equations in publications—a process that is error-prone and sometimes impossible
+Developing a common standard with flexible building blocks that enable models of varying complexity to be serialized, shared, and adapted across domains.
 
-These inconsistent and fragmented practices create barriers to collaboration, reproducibility, and knowledge transfer both within and across fields.
+### 2. Portal & Infrastructure
 
-## The DEMOS Solution
+Creating a platform to facilitate model discovery and sharing, with computational engines in C++, Python, and Julia.
 
-Our "Democratizing Models" initiative addresses these challenges by proposing the development of a **federated and interoperable DEMOS standard** for sharing, standardizing, and utilizing probabilistic models across the diverse fields of the ErUM community.
+### 3. Community Engagement
 
-The proposal focuses on:
+Working with the ErUM research community to establish and promote the DEMOS standard through documentation, showcases, and collaboration.
 
-1. Identifying common model structures
-2. Creating an extensible mechanism for serializing complex models
-3. Enabling seamless interfacing between disciplines
-
-By pioneering this interoperable standard, the DEMOS project aims to transcend existing disciplinary boundaries and establish a shared foundation for model communication.
-
-## Three Foundational Pillars
-
-The proposed project is built on three foundational pillars that collectively drive its vision and implementation:
-
-### Pillar 1: Model Format Standardization
-
-Development of a common standard, including a flexible block-assembling mechanism, ensuring that models of varying complexity can be serialized, shared, and adapted across diverse domains. Computational engines will ensure consistency and enable interactive exploration of the models.
-
-[Learn more about Pillar 1 →](work-packages/pillar1/index.md)
-
-### Pillar 2: Portal & Infrastructure
-
-A platform will be created to facilitate model sharing using the newly developed DEMOS standard. A comprehensive and representative collection of models spanning the key research areas will be compiled to demonstrate the platform's features.
-
-[Learn more about Pillar 2 →](work-packages/pillar2/index.md)
-
-### Pillar 3: Community Engagement
-
-Extensive effort will be dedicated to engaging the ErUM research community to establish the new common DEMOS standard and a user-friendly model registry. Members of our consortium hold leadership positions in several large experimental collaborations and are pioneers of domain-specific standardization initiatives.
-
-[Learn more about Pillar 3 →](work-packages/pillar3/index.md)
+[Learn more about our approach →](about.md)
 
 ## Consortium
 
-The consortium is led by **Prof. Dr. M. Mikhasenko** from Ruhr University Bochum. This proposal is initiated and driven primarily by early-career principal investigators, with senior researchers involved to support the initiative and help promote the adoption of its ideas within the broader community.
+The consortium is led by **Prof. Dr. Mikhail Mikhasenko** (Ruhr University Bochum) and includes 9 research institutions across Germany and the US.
 
-The foundation of the project was laid out at the "[Democratizing Models](https://indico.him.uni-bonn.de/event/227/)" workshop.
-
-[View full consortium details →](consortium/members.md)
+[Meet the team →](consortium/index.md)
 
 ## Get Involved
 
-The DEMOS initiative represents a transformative step in the way research models are shared and utilized. By ensuring accessibility and adaptability, it will enable researchers, educators, and learners to explore, reinterpret, and build upon complex scientific insights.
-
-- **Explore** our [objectives](objectives.md) and [work packages](work-packages/index.md)
-- **Learn** about the [current state of the art](state-of-art/index.md) in model sharing
-- **Discover** how DEMOS will benefit your research domain
+- **Interested in collaborating?** [View opportunities →](opportunities.md)
+- **Questions or feedback?** [Contact us →](consortium/contact.md)
+- **Want to learn more?** [Explore our objectives →](about.md)
