@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# DEMOS: DEMocratizing MOdelS
+# DEMOS: DEmocratizing MOdelS
 
 **A cross-discipline platform for sharing research models**
 

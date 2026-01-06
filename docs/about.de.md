@@ -17,7 +17,7 @@ Diese Barrieren begrenzen Zusammenarbeit, Reproduzierbarkeit und die breitere Wi
 
 ## Unsere Lösung
 
-**DEMOS (DEMocratizing MOdelS)** schafft einen einheitlichen Standard und eine Infrastruktur für den Austausch probabilistischer Modelle über alle ErUM-Forschungsfelder (Erforschung von Universum und Materie).
+**DEMOS (DEmocratizing MOdelS)** schafft einen einheitlichen Standard und eine Infrastruktur für den Austausch probabilistischer Modelle über alle ErUM-Forschungsfelder (Erforschung von Universum und Materie).
 
 ### Was wir entwickeln
 

@@ -17,7 +17,7 @@ These barriers limit collaboration, reproducibility, and the broader impact of r
 
 ## Our Solution
 
-**DEMOS (DEMocratizing MOdelS)** creates a unified standard and infrastructure for sharing probabilistic models across all ErUM (Exploration of the Universe and Matter) research fields.
+**DEMOS (DEmocratizing MOdelS)** creates a unified standard and infrastructure for sharing probabilistic models across all ErUM (Exploration of the Universe and Matter) research fields.
 
 ### What We're Building
 
