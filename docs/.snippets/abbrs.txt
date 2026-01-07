@@ -1,5 +1,5 @@
 *[CERN]: European Organization for Nuclear Research
-*[DEMOS]: DEMocratizing MOdelS
+*[DEMOS]: DEmocratizing MOdelS
 *[ErUM]: Exploration of the Universe and Matter
 *[FAIR]: Findable, Accessible, Interoperable, Reusable
 *[MaaS]: Models as a Service

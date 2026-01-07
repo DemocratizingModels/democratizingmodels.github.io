@@ -2,7 +2,7 @@
 title: Hauptseite
 ---
 
-# DEMOS: DEMocratizing MOdelS
+# DEMOS: DEmocratizing MOdelS
 
 **Eine interdisziplinäre Plattform für den Austausch von Forschungsmodellen**
 

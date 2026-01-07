@@ -15,9 +15,11 @@ The DEMOS consortium consists of researchers from multiple German institutions a
 ### RUB-H: Hadron Physics
 
 **Lattice Hadron Physics**
+
 - **J. Bulava**, Theoretical Particle Physics (TP2), Ruhr University Bochum
 
 **Experimental Hadron Physics**
+
 - **M. Fritsch**, Experimental Particle Physics (EP1), Ruhr University Bochum
 - **M. Mikhasenko**¹, Experimental Particle Physics (EP1), Ruhr University Bochum
 

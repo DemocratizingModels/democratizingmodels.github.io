@@ -15,9 +15,11 @@ Das DEMOS-Konsortium besteht aus Forschenden mehrerer deutscher Institutionen un
 ### RUB-H: Hadronenphysik
 
 **Gitter-Hadronenphysik**
+
 - **J. Bulava**, Theoretische Teilchenphysik (TP2), Ruhr-Universität Bochum
 
 **Experimentelle Hadronenphysik**
+
 - **M. Fritsch**, Experimentelle Teilchenphysik (EP1), Ruhr-Universität Bochum
 - **M. Mikhasenko**¹, Experimentelle Teilchenphysik (EP1), Ruhr-Universität Bochum
 
