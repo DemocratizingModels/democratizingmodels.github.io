@@ -49,6 +49,10 @@ jobs:
 
     # Specify runner + deployment step
     runs-on: ubuntu-latest
+
+    # Shouldn't run when the PR comes from a fork
+    if: ${{ !github.event.pull_request.head.repo.fork }}
+
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
