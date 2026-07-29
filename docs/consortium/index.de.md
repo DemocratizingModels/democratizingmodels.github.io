@@ -18,12 +18,13 @@ Die Initiative wird primär von Nachwuchswissenschaftlerinnen und -wissenschaftl
 
 - **Ruhr-Universität Bochum (RUB)** - drei Gruppen für Hadronenphysik, Kernphysik und Astroteilchenphysik
 - **Helmholtz-Zentrum Dresden-Rossendorf/CASUS (HZDR)** - Laserphysik
-- **TU Dortmund (TUDO)** - Teilchenphysik
+- **Universität Hamburg (UHH)** - Teilchenphysik
 - **Johannes Gutenberg-Universität Mainz (JGU)** - Hadronenphysik
 - **Technische Universität München (TUM)** - Neutrino- und Teilchenphysik
 - **Ludwig-Maximilians-Universität München (LMU)** - Teilchenphysik
 - **Max-Planck-Institut für Physik, München (MPP)** - Neutrino- und Hadronenphysik
 - **University of California, Santa Cruz (SC)** - Teilchenphysik (assoziierter Partner)
+- **Technische Universität Dortmund (TUDO)** - Teilchenphysik (assoziierter Partner)
 
 [Detaillierte Mitgliederliste anzeigen →](members.md)
 
@@ -34,7 +35,7 @@ Das Konsortium deckt alle sechs ErUM-Bereiche ab:
 | Bereich | Gruppen |
 |---------|---------|
 | **Hadronenphysik (HP)** | RUB-H, JGU, MPP |
-| **Teilchenphysik (PP)** | TUDO, LMU, TUM, SC |
+| **Teilchenphysik (PP)** | UHH, TUDO, LMU, TUM, SC |
 | **Kernphysik (NP)** | RUB-N |
 | **Neutrinophysik (NuP)** | TUM, MPP |
 | **Astroteilchenphysik (AP)** | RUB-A |

@@ -44,11 +44,11 @@ Das DEMOS-Konsortium besteht aus Forschenden mehrerer deutscher Institutionen un
 
 ---
 
-## TU Dortmund (TUDO)
+## Universität Hamburg (UHH)
 
 ### Teilchenphysik
 
-- **C. Burgard**, Fachbereich Physik, TU Dortmund
+- **C. Burgard**, Institut für Experimentalphysik, Uni Hamburg
 
 ---
 
@@ -109,7 +109,7 @@ Das DEMOS-Konsortium besteht aus Forschenden mehrerer deutscher Institutionen un
 | Bereich | Institutionscodes |
 |---------|-------------------|
 | **Hadronenphysik (HP)** | RUB-H (Mikhasenko, Fritsch, Bulava), JGU (Hüsken), MPP (Wallner) |
-| **Teilchenphysik (PP)** | TUDO (Burgard), TUM (Heinrich), LMU (Kuhr), SC (Stark) |
+| **Teilchenphysik (PP)** | UHH (Burgard, Albrecht), TUM (Heinrich), LMU (Kuhr), SC (Stark) |
 | **Kernphysik (NP)** | RUB-N (Epelbaum) |
 | **Neutrinophysik (NuP)** | TUM (Eller), MPP (Schulz) |
 | **Astroteilchenphysik (AP)** | RUB-A (Tjus) |
@@ -134,7 +134,7 @@ Das DEMOS-Konsortium besteht aus Forschenden mehrerer deutscher Institutionen un
 
 Konsortiummitglieder nehmen Führungspositionen in großen experimentellen Kollaborationen ein:
 
-- **ATLAS** und **CMS** (TUDO, LMU, TUM)
+- **ATLAS** und **CMS** (UHH, TUDO, LMU, TUM)
 - **LHCb** und **COMPASS** (RUB-H)
 - **BESIII** (JGU)
 - **Belle II** (MPP, LMU)
@@ -147,6 +147,7 @@ Konsortiummitglieder sind leitende Entwickler weit verbreiteter Werkzeuge:
 
 - **PyHF** (TUM, LMU, SC)
 - **BAT.jl** (mehrere Institutionen)
-- **ROOT/RooFit** Ökosystem-Mitwirkende (TUDO)
-- **HS3**-Standard-Entwickler (TUDO, TUM, LMU, SC)
+- **combine** (UHH)
+- **ROOT/RooFit** Ökosystem-Mitwirkende (UHH, TUDO)
+- **HS3**-Standard-Entwickler (UHH, TUDO, TUM, LMU, SC)
 - **Amplitude-Serialisierungs**-Pioniere (RUB-H)

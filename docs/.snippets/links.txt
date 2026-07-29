@@ -28,6 +28,7 @@
 [HZDR]: https://www.hzdr.de/
 [CASUS]: https://www.casus.science/
 [TUDO]: https://www.tu-dortmund.de/
+[UHH]: https://www.uni-hamburg.de/
 [JGU]: https://www.uni-mainz.de/
 [TUM]: https://www.tum.de/
 [LMU]: https://www.lmu.de/

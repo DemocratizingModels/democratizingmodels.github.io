@@ -36,6 +36,7 @@
 *[RUB]: Ruhr University Bochum
 *[HZDR]: Helmholtz-Zentrum Dresden-Rossendorf
 *[TUDO]: TU Dortmund University
+*[UHH]: University of Hamburg
 *[JGU]: Johannes Gutenberg-University Mainz
 *[TUM]: Technical University of Munich
 *[LMU]: Ludwig Maximilian University of Munich

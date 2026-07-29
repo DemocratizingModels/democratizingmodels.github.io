@@ -18,11 +18,12 @@ The initiative is driven primarily by early-career principal investigators, with
 
 - **Ruhr University Bochum (RUB)** - three groups covering Hadron Physics, Nuclear Physics, and Astroparticle Physics
 - **Helmholtz-Zentrum Dresden-Rossendorf/CASUS (HZDR)** - Laser Physics
-- **TU Dortmund University (TUDO)** - Particle Physics
+- **University of Hamburg (UHH)** - Particle Physics
 - **Johannes Gutenberg-University Mainz (JGU)** - Hadron Physics
 - **Technical University of Munich (TUM)** - Neutrino and Particle Physics
 - **Ludwig Maximilian University of Munich (LMU)** - Particle Physics
 - **Max Planck Institute for Physics, Munich (MPP)** - Neutrino and Hadron Physics
+- **TU Dortmund University (TUDO)** - Particle Physics
 - **University of California, Santa Cruz (SC)** - Particle Physics (associated partner)
 
 [View detailed member list →](members.md)
@@ -34,7 +35,7 @@ The consortium covers all six ErUM domains:
 | Domain | Groups |
 |--------|--------|
 | **Hadron Physics (HP)** | RUB-H, JGU, MPP |
-| **Particle Physics (PP)** | TUDO, LMU, TUM, SC |
+| **Particle Physics (PP)** | UHH, TUDO, LMU, TUM, SC |
 | **Nuclear Physics (NP)** | RUB-N |
 | **Neutrino Physics (NuP)** | TUM, MPP |
 | **Astroparticle Physics (AP)** | RUB-A |

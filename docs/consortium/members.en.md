@@ -44,11 +44,12 @@ The DEMOS consortium consists of researchers from multiple German institutions a
 
 ---
 
-## TU Dortmund University (TUDO)
+## University of Hamburg (UHH)
 
 ### Particle Physics
 
-- **C. Burgard**, Department of Physics, TU Dortmund
+- **C. Burgard**, Institute for Experimental Physics, University of Hamburg
+- **S. Albrecht**, Institute for Experimental Physics, University of Hamburg
 
 ---
 
@@ -100,6 +101,12 @@ The DEMOS consortium consists of researchers from multiple German institutions a
 
 - **G. Stark**, SCIPP, University of California, Santa Cruz
 
+### TU Dortmund University, TU Dortmund (TUDO)
+
+### Particle Physics
+
+- **C. Burgard**, AG Kroeninger, TU Dortmund
+
 ---
 
 ## Expertise Distribution
@@ -109,7 +116,7 @@ The DEMOS consortium consists of researchers from multiple German institutions a
 | Domain | Institution Codes |
 |--------|-------------------|
 | **Hadron Physics (HP)** | RUB-H (Mikhasenko, Fritsch, Bulava), JGU (Hüsken), MPP (Wallner) |
-| **Particle Physics (PP)** | TUDO (Burgard), TUM (Heinrich), LMU (Kuhr), SC (Stark) |
+| **Particle Physics (PP)** | UHH (Burgard, Albrecht), TUM (Heinrich), LMU (Kuhr), SC (Stark) |
 | **Nuclear Physics (NP)** | RUB-N (Epelbaum) |
 | **Neutrino Physics (NuP)** | TUM (Eller), MPP (Schulz) |
 | **Astroparticle Physics (AP)** | RUB-A (Tjus) |
@@ -123,7 +130,7 @@ The DEMOS consortium consists of researchers from multiple German institutions a
 | Max Planck Institute for Physics | 2 | NuP, HP |
 | Technical University of Munich | 2 | NuP, PP |
 | HZDR | 2 | LP |
-| TU Dortmund | 1 | PP |
+| UHH | 1 | PP |
 | JGU Mainz | 1 | HP |
 | LMU Munich | 1 | PP |
 | UC Santa Cruz | 1 | PP (associated) |
@@ -134,7 +141,7 @@ The DEMOS consortium consists of researchers from multiple German institutions a
 
 Consortium members hold leadership positions in major experimental collaborations:
 
-- **ATLAS** and **CMS** (TUDO, LMU, TUM)
+- **ATLAS** and **CMS** (TUDO, UHH, LMU, TUM)
 - **LHCb** and **COMPASS** (RUB-H)
 - **BESIII** (JGU)
 - **Belle II** (MPP, LMU)
@@ -147,6 +154,7 @@ Consortium members are leading developers of widely-used tools:
 
 - **PyHF** (TUM, LMU, SC)
 - **BAT.jl** (multiple institutions)
-- **ROOT/RooFit** ecosystem contributors (TUDO)
-- **HS3** standard developers (TUDO, TUM, LMU, SC)
+- **combine** (UHH)
+- **ROOT/RooFit** ecosystem contributors (UHH, TUDO)
+- **HS3** standard developers (UHH, TUDO, TUM, LMU, SC)
 - **Amplitude serialization** pioneers (RUB-H)
