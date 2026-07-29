@@ -58,6 +58,7 @@ theme:
 
 extra_css:
   - assets/css/extra.css
+  - assets/css/projects.css
 
 extra_javascript:
   - assets/javascript/config.js
@@ -89,6 +90,7 @@ plugins:
           Consortium: Konsortium
           Members: Mitglieder
           Contact: Kontakt
+          Projects: Projekte
           Opportunities: Möglichkeiten
         site_name: DEMOS (de)
         site_description: Interdisziplinäre Plattform zum Austausch von Forschungsmodellen
@@ -181,4 +183,5 @@ nav:
     - consortium/index.md
     - Members: consortium/members.md
     - Contact: consortium/contact.md
+  - Projects: projects.md
   - Opportunities: opportunities.md

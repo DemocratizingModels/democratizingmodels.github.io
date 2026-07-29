@@ -1,0 +1,27 @@
+/* Featured-project cards used on projects.<locale>.md */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.project-card {
+  padding: 1.25rem 1.4rem;
+  border: 0.05rem solid var(--md-default-fg-color--lightest);
+  border-radius: 0.3rem;
+  background: var(--md-default-bg-color);
+  box-shadow: 0 0.15rem 0.5rem rgb(0 0 0 / 6%);
+}
+
+.project-card > :first-child {
+  margin-top: 0;
+}
+
+.project-card > :last-child {
+  margin-bottom: 0;
+}
+
+.project-card .md-button {
+  margin: 0.25rem 0.35rem 0.15rem 0;
+}
