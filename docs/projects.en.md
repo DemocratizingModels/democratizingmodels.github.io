@@ -15,8 +15,21 @@ HS³ is an implementation-independent format for publishing statistical models u
 [:material-book-open-variant: Documentation](https://hep-statistics-serialization-standard.github.io/){ .md-button }
 [:fontawesome-brands-github: Source code](https://github.com/hep-statistics-serialization-standard){ .md-button }
 [:material-file-document-outline: Paper](https://arxiv.org/abs/2606.01760){ .md-button }
+[:material-test-tube: Submit test cases](https://hs3-fixtures.app.cern.ch/){ .md-button }
 
 </div>
+
+<div class="project-card" markdown>
+
+### Amplitude Serialization
+
+Amplitude Serialization is a machine-readable format for representing scattering amplitudes independently of a particular software implementation. It provides a standardized description of amplitudes and their mathematical structure, enabling their exchange, preservation, and reuse across different computational frameworks and analysis workflows.
+
+[:material-book-open-variant: Documentation](https://github.com/RUB-EP1/amplitude-serialization){ .md-button }
+[:fontawesome-brands-github: Source code](https://github.com/RUB-EP1/amplitude-serialization){ .md-button }
+
+</div>
+
 
 <div class="project-card" markdown>
 
@@ -27,6 +40,7 @@ FlatPPL is a developing probabilistic programming language for expressing statis
 [:material-file-document-outline: Design](https://github.com/flatppl/flatppl-design){ .md-button }
 [:fontawesome-brands-github: Source code](https://github.com/flatppl){ .md-button }
 [:material-code-braces: Examples](https://github.com/flatppl/flatppl-examples){ .md-button }
+[:material-graph-outline: Interactive visualizer](https://flatppl.github.io/flatppl-js/#model=demo%2Ffeature-test1.flatppl){ .md-button }
 
 </div>
 
@@ -81,6 +95,19 @@ pyHS3 is a pure-Python implementation of HS³ that turns serialized models into 
 [:material-book-open-variant: Documentation](https://pyhs3.readthedocs.io/){ .md-button }
 [:fontawesome-brands-github: Source code](https://github.com/scipp-atlas/pyhs3){ .md-button }
 [:material-language-python: Python package](https://pypi.org/project/pyhs3/){ .md-button }
+
+</div>
+
+<div class="project-card" markdown>
+
+### Newtrinos.jl
+
+Newtrinos.jl is a Julia framework for statistical inference in neutrino physics. It provides tools for constructing and evaluating likelihood-based analyses in a flexible computational environment, with an emphasis on reusable statistical models and modern numerical methods for neutrino measurements.
+
+[:material-book-open-variant: Documentation](https://davschu.github.io/Newtrinos.jl){ .md-button }
+[:fontawesome-brands-github: Source code](https://github.com/philippeller/Newtrinos.jl){ .md-button }
+
+
 
 </div>
 
