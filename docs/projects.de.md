@@ -38,7 +38,7 @@ FlatPPL ist eine probabilistische Programmiersprache in Entwicklung, mit der sic
 [:material-file-document-outline: Entwurf](https://github.com/flatppl/flatppl-design){ .md-button }
 [:fontawesome-brands-github: Quellcode](https://github.com/flatppl){ .md-button }
 [:material-code-braces: Beispiele](https://github.com/flatppl/flatppl-examples){ .md-button }
-[:material-graph-outline: Interaktive Visualisierung](https://flatppl.github.io/flatppl-js/#model=demo%2Ffeature-test1.flatppl){ .md-button }
+[:material-graph-outline: Interaktive Visualisierung](https://flatppl.github.io/flatppl-js/){ .md-button }
 
 </div>
 
